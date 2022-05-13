@@ -1,0 +1,23 @@
+p{
+    color: purple;
+}
+
+h1{
+    font-weight: bold;
+    text-decoration: underline;
+    text-align: center;
+}
+
+li{
+    text-align: justify;
+    font-style: italic;
+}
+
+img{
+    border: solid;
+    border-color: salmon;
+    border-width: 5px;
+}
+div.name a:hover{
+    font-size: larger;
+}
